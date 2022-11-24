@@ -1,0 +1,22 @@
+https://www.youtube.com/watch?v=1Vmi_5ZsyqE
+
+https://github.com/jackfr0st13/centralized-swagger
+
+https://www.youtube.com/watch?v=lY24_jwMxTw
+
+https://github.com/geekymon2/carmarketplace-apigateway
+
+https://github.com/geekymon2/carmarketplace-config
+
+
+https://github.com/piomin/sample-spring-microservices-advanced
+
+https://piotrminkowski.com/2020/02/20/microservices-api-documentation-with-springdoc-openapi/
+
+--------------------------------
+
+spring people
+
+https://www.youtube.com/watch?v=utRxyPfFlDw
+
+https://github.com/springdoc/springdoc-openapi-demos/tree/master/springdoc-openapi-microservices
